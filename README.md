@@ -1,1 +1,1 @@
-# Minor-project
+# Minor-project on computer science 
